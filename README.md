@@ -37,7 +37,7 @@ A ideia é:
 └── 📄 README.md
 ```
 ---
-⭐ **Obrigada por visitar meu portfólio!** <br>
+👩‍💻 **Obrigada por visitar meu portfólio!** <br>
 Estou em constante evolução na área de **QA**, e feedbacks são sempre muito bem-vindos. 
 
 
