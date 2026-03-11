@@ -2,7 +2,7 @@
 
 Este repositório contém o material utilizado para a prática de testes funcionais.
 
-Site testado: [BugBank](https://bugbank.netlify.app/)
+Site testado: https://bugbank.netlify.app/
 
 
 ## Conteúdo da Pasta
@@ -35,4 +35,5 @@ Este projeto foi desenvolvido como parte do meu portfólio profissional em **Qua
 - Testes funcionais.
 - Testes positivos e negativos.
 - Validação de requisitos.
+
 - Identificação e documentação de bugs.
