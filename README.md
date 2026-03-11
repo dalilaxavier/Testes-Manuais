@@ -18,10 +18,8 @@ Este repositório faz parte do meu portfólio profissional em QA, onde documento
 
 A ideia é:
 
-- Desenvolver e consolidar meus conhecimentos em Quality Assurance (QA) por meio da prática de testes de software.
-- Construir uma base sólida em testes manuais, aplicando conceitos importantes na área.
+- Desenvolver e consolidar meus conhecimentos em testes manuais por meio da prática.
 - Documentar minha evolução prática na área de testes, criando um portfólio bem estruturado que demonstre minhas habilidades para futuras oportunidades.
-
 
 ## Estrutura do Repositório
 
