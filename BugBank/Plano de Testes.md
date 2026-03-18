@@ -63,5 +63,5 @@
 
 ### 10. Prazo
 
-- 03 a 10 de Fevereiro de 2026.
+- 23 de fevereiro a 11 de março de 2026.
 
